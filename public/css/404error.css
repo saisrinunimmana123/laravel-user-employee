@@ -1,0 +1,38 @@
+   .body{
+         background:#f7f6f6;
+         }
+         form{
+         height:300px;
+         width:800px;
+         background-color:white!important;
+         color:black;
+         box-sizing: border-box;
+         border:1px solid #cdcaca;
+         border-radius: 10px;
+         margin-left: 590px;
+         margin-top: 50px;
+         }
+         h1{
+         margin:75px 0px 0px 305px !important;color:#989fa7   
+         }
+         @media only screen and (max-width: 768px) and (min-width: 320px){
+            .body{
+         background:#f7f6f6;
+         }
+     form{
+           height:250px;
+           width:400px;
+           background-color:white;
+           color:black;
+           box-sizing: border-box;
+           border:1px solid #cdcaca;
+           border-radius: 10px;
+           margin-left: 30px !important;
+           margin-top: 70px;
+          }
+
+        h1{
+           margin:75px 0px 0px 90px !important;color:#989fa7   
+          }
+
+         }
